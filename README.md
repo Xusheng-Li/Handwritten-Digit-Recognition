@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognition
-Python &amp; scikit-learn handwritten digit recognition project. Implements KNN, Logistic Regression, SVM and other classic models on MNIST, with a Tkinter GUI (image upload + handwriting board) for interaction. Features high accuracy, full code, data workflows and experimental results.
+A hands-on project for handwritten digit recognition using Python & scikit-learn. Implements KNN, Naive Bayes, Logistic Regression, SVM and other classic models based on the MNIST dataset, with a Tkinter-based GUI (image upload + handwriting board) for interactive testing. Achieves high recognition accuracy and provides complete code, data processing workflows, and experimental results.
